@@ -1,4 +1,4 @@
-# express
+# Express
 
 Here’s a README.md template for a Node.js Express-based API that includes SignUp, SignIn, GetUser, and Logout functionality:
 
