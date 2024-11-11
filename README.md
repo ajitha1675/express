@@ -13,6 +13,7 @@ This API allows users to sign up, sign in, retrieve user information, and log ou
    Get User
    
    Logout
+
    
 **Endpoints**
 
